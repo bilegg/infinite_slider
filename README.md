@@ -1,2 +1,4 @@
-# infinite_slider
+# Infinite slider
 Very simple infinite runner game
+
+Just download and have fun :-)
